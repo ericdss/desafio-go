@@ -1,0 +1,1 @@
+docker pull ericdss/desafio-go:latest
